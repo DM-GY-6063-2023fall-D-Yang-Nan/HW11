@@ -12,6 +12,8 @@ So I connected two push buttons, relays and two led bulbs in parallel, here is m
 
 ![GkIPFP.jpg](https://imgpile.com/images/GkIPFP.jpg)
 
+![Gku8tE.png](https://imgpile.com/images/Gku8tE.png)
+
 ![GkIsJL.jpg](https://imgpile.com/images/GkIsJL.jpg)
 
 In order to test if my code is correct, I used the following code to test separately：
