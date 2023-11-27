@@ -88,3 +88,5 @@ Main loop:
 Failure function:
   Light up ledFailure for 2 seconds, then turn it off and reset step to 0
 
+  [![Alt text](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=_GMmlgMmaJo)
+
